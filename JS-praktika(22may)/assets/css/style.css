@@ -1,0 +1,119 @@
+.bgimg {
+  background-image: url("https://preview.colorlib.com/theme/theestate/images/home_slider_bcg.jpg.webp");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 600px;
+  color: white;
+}
+.bgimg ul {
+  display: flex;
+  cursor: pointer;
+}
+.bgimg ul li {
+  padding: 10px;
+}
+.bgimg i {
+  font-size: 50px;
+  text-align: center;
+}
+.bgimg button {
+  padding: 10px;
+  background-color: rgb(223, 135, 4);
+  color: white;
+  border: 0;
+  cursor: pointer;
+}
+.bgimg h1 {
+  font-size: 50px;
+  padding: 200px 0;
+}
+
+.featured .xett {
+  height: 30px;
+  width: 5px;
+  margin-left: 520px;
+  background-color: rgb(223, 135, 4);
+}
+
+.icon {
+  display: flex;
+  flex-wrap: wrap;
+}
+.icon p {
+  font-size: 16px;
+  padding: 0 10px 0 0;
+}
+.icon i {
+  font-size: 40px;
+  padding: 7px;
+}
+
+.cards {
+  border: 1px solid grey;
+  background-color: rgb(18, 18, 189);
+  color: white;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.clients {
+  background-image: url("https://hips.hearstapps.com/hmg-prod/images/interior-design-ideas-idea-9-dwell-1-1644331792.jpg?resize=480:*");
+  background-size: 100%;
+  background-position: center;
+  height: 600px;
+  color: white;
+}
+.clients .xett {
+  height: 30px;
+  width: 5px;
+  margin-left: 640px;
+  margin-top: 30px;
+  background-color: rgb(223, 135, 4);
+}
+.clients .lorem p {
+  padding: 30px 0;
+}
+.clients .ipsum {
+  padding: 10px;
+}
+.clients .ipsum img {
+  border-radius: 50%;
+}
+.clients .ipsum p {
+  color: rgb(223, 135, 4);
+}
+
+.xett {
+  height: 30px;
+  width: 5px;
+  margin-left: 660px;
+  margin-top: 30px;
+  background-color: rgb(223, 135, 4);
+}
+
+.end p {
+  background-color: rgb(223, 135, 4);
+  position: relative;
+  top: -40px;
+  width: 50px;
+  left: 50px;
+}
+
+.room {
+  margin-top: 27px;
+}
+
+.tags {
+  display: inline-block;
+  font-size: 12px;
+  background: #fd784f;
+  margin-right: 7px;
+  margin-bottom: 9px;
+}
+
+.tags a {
+  padding: 15px;
+  color: white;
+  text-decoration: none;
+}
